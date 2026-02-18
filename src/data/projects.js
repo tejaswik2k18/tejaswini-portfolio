@@ -33,14 +33,15 @@ export const projects = [
     links: [],
   },
   {
-    title: "Transaction Monitoring & Compliance",
-    period: "Jul 2018 - Jan 2020",
-    bullets: [
-      "Transaction validation and suspicious activity detection workflows.",
-      "REST + SOAP integrations; analyst dashboards in React.",
-      "Oracle/MySQL optimization; Tomcat/WebLogic deployments with logging/testing.",
-    ],
-    description: "Worked on a Transaction Monitoring and Regulatory Compliance module supporting fund transfers and suspicious activity detection. Developed backend components using Java, J2EE, Spring MVC, and Hibernate for transaction validation and compliance checks. Designed REST and SOAP services for system integration and built analyst dashboards using React.js. Managed Oracle and MySQL databases and supported deployments using Maven, Git, and Tomcat with structured logging and testing.",
-    links: [],
+   title: "Enterprise Data Processing & Workflow Management",
+period: "Jul 2018 - Jan 2020",
+bullets: [
+  "High-volume data validation and rule-based workflow automation.",
+  "REST + SOAP integrations; operational dashboards in React.",
+  "Oracle/MySQL optimization; Tomcat deployments with logging/testing.",
+],
+description: "Worked on a high-volume data processing and workflow management module responsible for validating, auditing, and monitoring system activities across distributed applications. Developed backend components using Java, J2EE, Spring MVC, Spring Boot, and Hibernate ORM to implement rule-based validations, workflow orchestration, and data integrity checks. Designed and exposed REST and SOAP services for seamless integration with internal and third-party systems, and built interactive operational dashboards using React.js for real-time monitoring and reporting. Managed Oracle and MySQL databases, optimized queries and schemas for performance, and supported builds and deployments using Maven, Git, and Tomcat with structured logging and comprehensive testing.",
+links: [],
+
   },
 ];

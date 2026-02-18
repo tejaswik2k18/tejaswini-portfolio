@@ -24,21 +24,21 @@ function App() {
         <meta property="og:title" content="Tejaswini K - Portfolio" />
         <meta property="og:description" content="Welcome to my portfolio website. Explore my projects, skills, and professional experience." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.linkedin.com/in/tejaswini916/" />
+        <meta property="og:url" content="https://www.linkedin.com/in/tejaswi2k18-k/" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Tejaswini K - Portfolio" />
         <meta name="twitter:description" content="Welcome to my portfolio website. Explore my projects, skills, and professional experience." />
-        <link rel="canonical" href="https://www.linkedin.com/in/tejaswini916/" />
+        <link rel="canonical" href="https://www.linkedin.com/in/tejaswi2k18-k/" />
         {/* SEO: Structured Data for Google */}
         <script type="application/ld+json">{`
 {
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Tejaswini K",
-  "url": "https://www.linkedin.com/in/tejaswini916/",
+  "url": "https://www.linkedin.com/in/tejaswi2k18-k/",
   "sameAs": [
     "https://github.com/tejaswik2k18",
-    "https://www.linkedin.com/in/tejaswini916/"
+    "hhttps://www.linkedin.com/in/tejaswi2k18-k/"
   ],
   "jobTitle": "Sr. Full Stack Developer",
   "description": "Portfolio of Tejaswini K, Sr. Full Stack Developer. Projects, skills, experience, and contact information."

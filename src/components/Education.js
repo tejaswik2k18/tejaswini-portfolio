@@ -18,7 +18,7 @@ const Education = () => {
           <div className="rounded-md border border-border bg-card p-5 shadow-sm">
             <h3 className="text-lg font-semibold">Bachelor of Technology in Computer Science and Engineering</h3>
             <h4 className="text-sm text-muted-foreground">G. Narayanamma Institute of Technology & Science (GNITS), JNTU</h4>
-            <p className="text-xs text-muted-foreground mt-1">August 2016 - September 2020</p>
+            <p className="text-xs text-muted-foreground mt-1">August 2014 - May 2018</p>
           </div>
         </div>
       </div>

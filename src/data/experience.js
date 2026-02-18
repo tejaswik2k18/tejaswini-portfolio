@@ -2,7 +2,7 @@ export const experience = [
   {
     title: "Sr. Full Stack Developer",
     company: "Well Sky, Overland Park, Kansas",
-    period: "Aug 2023 - Present",
+    period: "Mar 2024 - Present	",
     bullets: [
       "Architected and developed highly scalable healthcare web applications using Java (Core & J2EE) integrated with React.js, TypeScript, HTML5, CSS3, and Redux, improving claims workflow efficiency by 38% and reducing UI response time by 45% through advanced state management and rendering optimization techniques.",
       "Designed responsive and secure dashboards using React Hooks, Context API, and component-driven architecture, enabling real-time claim lifecycle tracking, eligibility verification, and reimbursement monitoring while enhancing operational productivity by 30%.",
@@ -14,8 +14,8 @@ export const experience = [
   },
   {
     title: "Full Stack Developer",
-    company: "TD Bank- Charlotte, North Carolina",
-    period: "Feb 2021 - Aug 2023",
+    company: "PNC Bank- Pittsburgh, PA",
+    period: "Oct 2021 - Feb 2024",
     bullets: [
       "Developed secure and responsive loan origination and credit assessment dashboards using React.js, TypeScript, HTML5, and CSS3, improving loan processing efficiency by 28% and enhancing digital banking adoption.",
       "Built reusable UI components integrated with backend REST APIs to provide real-time application status updates, underwriting decisions, and credit evaluation insights.",
@@ -27,8 +27,8 @@ export const experience = [
   },
   {
     title: "Full Stack Developer",
-    company: "Target, Minneapolis, MN",
-    period: "Jan 2020 - Feb 2021",
+    company: "Burlington, Burlington, NJ",
+    period: "Nov 2019 - Sep 2021",
     bullets: [
       "Developed high-performance e-commerce modules using Angular, TypeScript, HTML5, and CSS3, enhancing checkout efficiency by 33% and improving customer engagement.",
       "Built reusable UI components and reactive forms integrated with backend RESTful services to enable real-time product availability and order updates.",
@@ -40,15 +40,14 @@ export const experience = [
   },
   {
     title: "Full Stack Developer",
-    company: "Citi National Bank, Hyderabad, India",
-    period: "July 2018 - Jan 2020",
+    company: "Iprism Technologies, Hyderabad, India",
+    period: "Aug 2017 - Oct 2019",
     bullets: [
-      "Developed secure banking user interfaces using React.js, HTML5, CSS3, and JavaScript, improving transaction visibility and enhancing digital banking experience.",
-      "Built dynamic UI modules for fund transfers, account management, and statement generation integrated with secure backend services.",
-      "Implemented client-side validation and optimized rendering strategies to improve responsiveness and usability.",
-      "Developed backend modules using Java, J2EE, Spring MVC, Spring Boot, and Hibernate ORM, supporting secure and high-volume banking operations.",
-      "Implemented business validation logic for transaction processing, regulatory compliance, and risk management workflows.",
-      "Applied secure authentication and authorization mechanisms using Spring Security and role-based access controls.",
-    ],
+     "Developed high-performance enterprise user interfaces using React.js, HTML5, CSS3, and JavaScript, enhancing real-time data visibility and improving overall user experience.",
+"Built dynamic UI modules for workflow management, activity tracking, and reporting dashboards integrated with secure backend services.",
+"Implemented client-side validation and optimized rendering strategies to improve responsiveness, scalability, and usability.",
+"Developed backend modules using Java, J2EE, Spring MVC, Spring Boot, and Hibernate ORM, supporting high-volume data processing operations.",
+"Implemented business validation logic for rule-based processing, data integrity enforcement, and workflow automation.",
+"Applied secure authentication and authorization mechanisms using Spring Security and role-based access controls."   ],
   },
 ];

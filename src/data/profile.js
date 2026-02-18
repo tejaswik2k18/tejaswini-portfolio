@@ -9,7 +9,7 @@ export const profile = {
 
   // About.js does profile.bio.map(...)
   bio: [
-    "Full Stack Developer with 7+ years of experience building scalable microservices and cloud-native applications using Java, Spring Boot, React, AWS, Docker, and Kubernetes.",
+    "Full Stack Developer with 8+ years of experience building scalable microservices and cloud-native applications using Java, Spring Boot, React, AWS, Docker, and Kubernetes.",
     "I’ve worked across Healthcare, Banking and Retail domains, delivering secure, high-performance systems with CI/CD, observability, and test automation.",
   ],
 
@@ -20,7 +20,7 @@ export const profile = {
   // About.js uses profile.social.email/linkedin/github/x
   social: {
     email: "tejaswik2k18@gmail.com",
-    linkedin: "https://www.linkedin.com/in/tejaswini916/",
+    linkedin: "https://www.linkedin.com/in/tejaswi2k18-k/",
     github: "https://github.com/tejaswik2k18",
     medium: "https://medium.com/@tejaswik2k18"
   },
