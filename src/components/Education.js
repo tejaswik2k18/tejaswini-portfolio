@@ -11,12 +11,11 @@ const Education = () => {
         <div className="space-y-4">
           <div className="rounded-md border border-border bg-card p-5 shadow-sm">
             <h3 className="text-lg font-semibold">Master of Science in Computer Science</h3>
-            <h4 className="text-sm text-muted-foreground">University of Central Missouri</h4>
           </div>
 
           <div className="rounded-md border border-border bg-card p-5 shadow-sm">
             <h3 className="text-lg font-semibold">Bachelor of Technology in Computer Science and Engineering</h3>
-            <h4 className="text-sm text-muted-foreground">G. Narayanamma Institute of Technology & Science (GNITS), JNTU</h4>
+        
           </div>
         </div>
       </div>
