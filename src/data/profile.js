@@ -20,7 +20,7 @@ export const profile = {
   // About.js uses profile.social.email/linkedin/github/x
   social: {
     email: "tejaswik2k18@gmail.com",
-    linkedin: "https://www.linkedin.com/in/tejaswi2k18-k/",
+    linkedin: "https://www.linkedin.com/in/tejaswini916/",
     github: "https://github.com/tejaswik2k18",
     medium: "https://medium.com/@tejaswik2k18"
   },
