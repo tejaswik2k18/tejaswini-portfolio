@@ -2,7 +2,7 @@ export const experience = [
   {
     title: "Sr. Full Stack Developer",
     company: "Well Sky, Overland Park, Kansas",
-    period: "Mar 2024 - Present	",
+    period: "Aug 2023 - Present	",
     bullets: [
       "Architected and developed highly scalable healthcare web applications using Java (Core & J2EE) integrated with React.js, TypeScript, HTML5, CSS3, and Redux, improving claims workflow efficiency by 38% and reducing UI response time by 45% through advanced state management and rendering optimization techniques.",
       "Designed responsive and secure dashboards using React Hooks, Context API, and component-driven architecture, enabling real-time claim lifecycle tracking, eligibility verification, and reimbursement monitoring while enhancing operational productivity by 30%.",
@@ -14,8 +14,8 @@ export const experience = [
   },
   {
     title: "Full Stack Developer",
-    company: "PNC Bank- Pittsburgh, PA",
-    period: "Oct 2021 - Feb 2024",
+    company: "TD Bank, Charlotte, NC",
+    period: "Feb 2021 - Aug 2023",
     bullets: [
       "Developed secure and responsive loan origination and credit assessment dashboards using React.js, TypeScript, HTML5, and CSS3, improving loan processing efficiency by 28% and enhancing digital banking adoption.",
       "Built reusable UI components integrated with backend REST APIs to provide real-time application status updates, underwriting decisions, and credit evaluation insights.",
@@ -27,8 +27,8 @@ export const experience = [
   },
   {
     title: "Full Stack Developer",
-    company: "Burlington, Burlington, NJ",
-    period: "Nov 2019 - Sep 2021",
+    company: "Target, Minneapolis, MN	",
+    period: "Jan 2020 - Feb 2021",
     bullets: [
       "Developed high-performance e-commerce modules using Angular, TypeScript, HTML5, and CSS3, enhancing checkout efficiency by 33% and improving customer engagement.",
       "Built reusable UI components and reactive forms integrated with backend RESTful services to enable real-time product availability and order updates.",
@@ -41,7 +41,7 @@ export const experience = [
   {
     title: "Full Stack Developer",
     company: "Iprism Technologies, Hyderabad, India",
-    period: "Aug 2017 - Oct 2019",
+    period: "Aug 2017 - Jan 2020",
     bullets: [
      "Developed high-performance enterprise user interfaces using React.js, HTML5, CSS3, and JavaScript, enhancing real-time data visibility and improving overall user experience.",
 "Built dynamic UI modules for workflow management, activity tracking, and reporting dashboards integrated with secure backend services.",
