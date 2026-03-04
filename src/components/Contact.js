@@ -86,12 +86,6 @@ const Contact = () => {
                 </a>
               </div>
               <div className="flex items-center gap-3">
-                <FaLinkedin className="text-primary" />
-                <a href="https://www.linkedin.com/in/tejaswini916/" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
-                linkedin.com/in/tejaswini916/
-                </a>
-              </div>
-              <div className="flex items-center gap-3">
                 <FaGithub className="text-primary" />
                 <a href="https://github.com/tejaswik2k18" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
                   github.com/tejaswik2k18
