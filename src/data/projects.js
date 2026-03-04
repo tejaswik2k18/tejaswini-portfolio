@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Claims Management & Care Authorization",
-    period: "Aug 2023 - Present",
+
     bullets: [
       "Java 17 + Spring Boot microservices for claims validation and authorization routing.",
       "REST APIs for claim submission and status tracking; Kafka for real-time updates.",
@@ -12,7 +12,7 @@ export const projects = [
   },
   {
     title: "Loan Origination & Credit Risk Assessment",
-    period: "Feb 2021 - Aug 2023",
+
     bullets: [
       "Secure microservices for underwriting, credit evaluation, and loan management.",
       "Authenticated REST APIs integrated with banking systems; Kafka notifications.",
@@ -23,7 +23,7 @@ export const projects = [
   },
   {
     title: "Inventory Reconciliation & Order Fulfillment",
-    period: "Jan 2020 - Feb 2021",
+
     bullets: [
       "Spring Boot services for inventory and shipment synchronization.",
       "Angular + TypeScript UI for real-time order visibility.",
@@ -34,7 +34,7 @@ export const projects = [
   },
   {
    title: "Enterprise Data Processing & Workflow Management",
-period: "Jul 2018 - Jan 2020",
+
 bullets: [
   "High-volume data validation and rule-based workflow automation.",
   "REST + SOAP integrations; operational dashboards in React.",
