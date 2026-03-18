@@ -3,7 +3,7 @@ export const profile = {
   titles: [
     "Hi, I'm Tejaswini K",
     "Senior Full Stack Developer",
-    "Java • Spring Boot • React",
+    "Java • Node JS • Spring Boot • React • Vue",
     "AWS • Microservices • DevOps",
   ],
 
