@@ -3,26 +3,23 @@ export const profile = {
   titles: [
     "Hi, I'm Tejaswini K",
     "Senior Full Stack Developer",
-    "Java • Node JS • Spring Boot ",
+    "Java • Node JS • Spring Boot",
     "Angular • React • Vue",
     "AWS • Microservices • DevOps",
   ],
 
   // About.js does profile.bio.map(...)
   bio: [
-    "Full Stack Developer with 8+ years of experience building scalable microservices and cloud-native applications using Java, Node JS, Spring Boot, React, Angular, Vue, AWS, Docker, and Kubernetes.",
+    "Full Stack Developer with 8+ years of experience building scalable microservices and cloud-native applications.",
     "I’ve worked across Healthcare, Banking and Retail domains, delivering secure, high-performance systems with CI/CD, observability, and test automation.",
   ],
 
-  // Optional: About.js uses profile.image || tejaswiniPic
-  // If you don't have an image path here, it will use tejaswiniPic automatically.
   image: "",
 
-  // About.js uses profile.social.email/linkedin/github/x
   social: {
     email: "tejaswik2k18@gmail.com",
     linkedin: "https://www.linkedin.com/in/tejaswini916/",
     github: "https://github.com/tejaswik2k18",
-    medium: "https://medium.com/@tejaswik2k18"
+    medium: "https://medium.com/@tejaswik2k18",
   },
 };
