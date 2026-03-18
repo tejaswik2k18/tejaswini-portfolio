@@ -4,7 +4,7 @@ export const profile = {
     "Hi, I'm Tejaswini K",
     "Senior Full Stack Developer",
     "Java • Node JS • Spring Boot ",
-    "Angular • React • Vue"
+    "Angular • React • Vue",
     "AWS • Microservices • DevOps",
   ],
 
