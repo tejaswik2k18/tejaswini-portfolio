@@ -18,7 +18,7 @@ export const profile = {
 
   social: {
     email: "tejaswik2k18@gmail.com",
-    linkedin: "https://www.linkedin.com/in/tejaswini916/",
+    linkedin: "https://www.linkedin.com/in/tejaswini-k-3220a8253/",
     github: "https://github.com/tejaswik2k18",
     medium: "https://medium.com/@tejaswik2k18",
   },
